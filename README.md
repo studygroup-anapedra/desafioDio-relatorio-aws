@@ -41,7 +41,7 @@ Senhor, Alberto Alencar Domontes</P>
 <p>Disponibilidade</P>
 <p>Seguraça</P>
 <p>
-<a href=" https://docs.google.com/document/d/1xWPRYYA6TKOkveR8Ar_yOZJ-UND3DHVUeKVz0YsNJ8I/edit">🔗 Caso de uso Amazon S3</a>
+<a href="https://docs.google.com/document/d/1xWPRYYA6TKOkveR8Ar_yOZJ-UND3DHVUeKVz0YsNJ8I/edit">🔗 Caso de uso Amazon S3</a>
 </P>
 
 <p>
